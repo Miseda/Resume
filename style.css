@@ -1,0 +1,35 @@
+.heading {
+  color: red;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: bold;
+}
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+.me {
+  color: grey;
+  font-style: italic;
+}
+.them {
+  font-style: italic;
+  color: grey;
+}
+.they {
+  font-style: italic;
+  color: grey;
+}
+.expo {
+  font-style: italic;
+  color: grey;
+}
+.ref {
+  font-style: italic;
+  color: grey;
+}
+body {
+  background-color: skyblue;
+}
